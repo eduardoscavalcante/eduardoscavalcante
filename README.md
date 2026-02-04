@@ -30,9 +30,10 @@ Sou estudante de **Ciência da Computação na UFAL** e apaixonado por transform
 ---
 
 ### 📈 O que ando fazendo:
-* **Web Dev:** Criando portfólios imersivos com **ScrollTrigger** e **GSAP**.
+* **Web Dev:** Criando portfólios imersivos e plataformas institucionais.
 * **Dados:** Desenvolvendo dashboards estratégicos e automações de processos.
-* **Acadêmico:** Focado em algoritmos, sistemas inteligentes e análise de dados no LACCAN.
+* **Acadêmico:** Cursando Ciência da Computação na Universidade Federal de Alagoas.
+* **Estágio:** Desenvolvendo painéis de dados com Power BI.
 
 ---
 
